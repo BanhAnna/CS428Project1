@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32cdcbf51d598054486a0ee6cdadcdae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Magic8Text: {instanceID: 0}
+  - vietfx: {instanceID: 0}
+  - vietfx2: {fileID: 8300000, guid: 29e4bbc65ccb74f09ab30156fc4ee5cf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
